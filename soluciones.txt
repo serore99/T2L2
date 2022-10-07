@@ -2,5 +2,8 @@
 2.- cd T2L2
 3.- touch demo.txt
     nano demo.txt
-4.- grep esta nano.txt
-5.- grep -i línia nano.txt
+4.- grep esta demo.txt
+5.- grep -i línia demo.txt
+6.- mkdir prova
+    cp nano.txt ./prova/
+    cp nano.txt ./demo2.txt
