@@ -2,3 +2,4 @@
 2.- cd T2L2
 3.- touch demo.txt
     nano demo.txt
+4.- grep esta nano.txt
