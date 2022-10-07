@@ -10,3 +10,4 @@
     grep -r línia
 7.- grep -r línia.*blanc
 8.- grep -r Línia.*Totes
+9.- grep -r línia | wc -l
