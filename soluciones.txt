@@ -8,3 +8,4 @@
     cp nano.txt ./prova/
     cp nano.txt ./demo2.txt
     grep -r línia
+7.- grep -r línia.*blanc
