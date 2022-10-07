@@ -11,3 +11,4 @@
 7.- grep -r línia.*blanc
 8.- grep -r Línia.*Totes
 9.- grep -r línia | wc -l
+10.- cat -n demo.txt | grep línia
